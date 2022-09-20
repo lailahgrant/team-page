@@ -37,13 +37,25 @@ body {
 img {
     display: grid;
     grid-template-columns: repeat(3, 3fr);
-    gap: 4rem;
+    gap: 3rem;
     width: 100%;
     height: auto;
     max-width: 100%;
 }
 
-span.titles {}
+img:nth-child(even) {
+    fm: ;
+}
+
+span.titles {
+    position: relative;
+    left: 3.5rem;
+    top: 3.2rem;
+    float: right;
+    text-transform: uppercase;
+    font-size: 1rem;
+    transform: rotate(90deg);
+}
 
 
 /* .

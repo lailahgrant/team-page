@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://www.figma.com/file/F8d1qJsorEdY47N74HLxQ4">
       Demo
     </a>
     <span> | </span>
@@ -81,7 +81,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
-
-- Website [lailahgrant.com]()
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@lailahgrant](https://github.com/lailahgrant/)
+- Twitter [@lailah_grant](https://twitter.com/lailah_grant)
+- Website [lailahgrant.com](https://react-pants-shop.netlify.app/)

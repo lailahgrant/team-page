@@ -5,14 +5,9 @@
     }
     
     body {}
-    
-    .container {
-        display: flex;
-        align-items: center;
-    }
+    /* .container {}
     
     .header {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        /* gap: 5em; */
-    }
+    } */

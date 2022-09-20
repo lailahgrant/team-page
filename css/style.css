@@ -1,26 +1,40 @@
-    * {
-        /*padding: 0;
-    margin: 0;*/
-        box-sizing: border-box;
-    }
-    
-    body {
-        font-family: "Oswald", "Raleway", "Tahoma";
-        font-size: 1.2rem;
-    }
-    
-    .container {
-        margin: 0 auto;
-        width: 60%;
-        display: grid;
-        gap: 1rem;
-    }
-    
-    .header {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-    }
-    /* .
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Raleway:ital,wght@0,100;0,200;0,500;0,600;1,100;1,400&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Oswald", "Raleway", "Tahoma";
+    font-size: 1.2rem;
+}
+
+.container {
+    margin: 0 auto;
+    width: 70%;
+    display: grid;
+    gap: 1rem;
+    /* grid-column: span 2 auto; */
+    padding: 2rem;
+}
+
+.header {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.intro {
+    font-family: "Raleway";
+}
+
+.intro h2 {
+    font-family: "Oswald";
+    text-transform: uppercase;
+}
+
+
+/* .
     
     margin: 0 auto;
         width: 50%;

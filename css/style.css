@@ -33,6 +33,18 @@ body {
     text-transform: uppercase;
 }
 
+.images,
+img {
+    display: grid;
+    grid-template-columns: repeat(3, 3fr);
+    gap: 4rem;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+
+span.titles {}
+
 
 /* .
     

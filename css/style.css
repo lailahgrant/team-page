@@ -4,10 +4,30 @@
         box-sizing: border-box;
     }
     
-    body {}
-    /* .container {}
+    body {
+        font-family: "Oswald", "Raleway", "Tahoma";
+        font-size: 1.2rem;
+    }
+    
+    .container {
+        margin: 0 auto;
+        width: 60%;
+        display: grid;
+        gap: 1rem;
+    }
     
     .header {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-    } */
+    }
+    /* .
+    
+    margin: 0 auto;
+        width: 50%;
+        display: grid;
+        gap: 1rem;
+        border: 1px solid #1b1c3a; 
+    
+    grid-column: span 2 auto;
+    padding: 2rem;
+    */
